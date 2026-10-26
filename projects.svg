@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640">
+  <rect width="900" height="640" rx="18" fill="#07111f"/>
+  <rect x="2" y="2" width="896" height="636" rx="16" fill="none" stroke="#22d3ee" stroke-opacity="0.4" stroke-width="2"/>
+
+  <text x="36" y="48" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Projects</text>
+  <text x="36" y="78" fill="#67e8f9" font-family="Consolas, monospace" font-size="13">PROJECTS.LIST ./projects.sh --featured | 4 projects</text>
+
+  <!-- Riffle -->
+  <rect x="28" y="104" width="420" height="240" rx="14" fill="#0d2137" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="48" y="142" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Riffle</text>
+  <rect x="48" y="158" width="72" height="22" rx="11" fill="#1e3a5f"/>
+  <text x="60" y="173" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="11">Python</text>
+  <text x="48" y="214" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">Voice-enabled agentic RAG over private PDFs -</text>
+  <text x="48" y="236" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">LangGraph tool-calling, hybrid BM25 + dense</text>
+  <text x="48" y="258" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">retrieval, Ollama, and RAGAS evaluation.</text>
+  <text x="48" y="312" fill="#64748b" font-family="Consolas, monospace" font-size="11">* 1 | LangGraph | FastAPI | ChromaDB</text>
+
+  <!-- Tech-Resume-Analyzer -->
+  <rect x="452" y="104" width="420" height="240" rx="14" fill="#0d2137" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="472" y="142" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Tech-Resume-Analyzer</text>
+  <rect x="472" y="158" width="88" height="22" rx="11" fill="#1e3a5f"/>
+  <text x="484" y="173" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="11">TypeScript</text>
+  <text x="472" y="214" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">AI resume intelligence - spaCy NER + Ollama</text>
+  <text x="472" y="236" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">LLM scoring, Flask API, React Native client,</text>
+  <text x="472" y="258" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">and explainable career-track feedback.</text>
+  <text x="472" y="312" fill="#64748b" font-family="Consolas, monospace" font-size="11">live demo | Flask | spaCy | Ollama</text>
+
+  <!-- forky -->
+  <rect x="28" y="364" width="420" height="240" rx="14" fill="#0d2137" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="48" y="402" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">forky</text>
+  <rect x="48" y="418" width="88" height="22" rx="11" fill="#1e3a5f"/>
+  <text x="60" y="433" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="11">JavaScript</text>
+  <text x="48" y="474" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">Full-stack recipe app - React + Flask + SQLite,</text>
+  <text x="48" y="496" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">Cloudinary uploads, and optional local AI</text>
+  <text x="48" y="518" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">recipe generation with Ollama.</text>
+  <text x="48" y="572" fill="#64748b" font-family="Consolas, monospace" font-size="11">* 1 | React | Flask | Ollama</text>
+
+  <!-- IMDB-Sentiment-Analyzer -->
+  <rect x="452" y="364" width="420" height="240" rx="14" fill="#0d2137" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="472" y="402" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">IMDB-Sentiment-Analyzer</text>
+  <rect x="472" y="418" width="72" height="22" rx="11" fill="#1e3a5f"/>
+  <text x="484" y="433" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="11">Python</text>
+  <text x="472" y="474" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">LSTM-based sentiment classifier for IMDB</text>
+  <text x="472" y="496" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">movie reviews, with an interactive app to</text>
+  <text x="472" y="518" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="14">score custom review text.</text>
+  <text x="472" y="572" fill="#64748b" font-family="Consolas, monospace" font-size="11">LSTM | NLP | Deep Learning</text>
+</svg>
