@@ -49,7 +49,7 @@ Building production-minded RAG systems, agentic workflows, and full-stack AI pro
 ## Projects
 
 <p align="center">
-  <img src="projects.jpg" alt="Featured projects with descriptions" />
+  <img src="projects.svg" alt="Featured projects with descriptions" />
 </p>
 
 | Project | Description |
